@@ -1,0 +1,31 @@
+_repo: The-Passionate-Elopement_38177
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38177-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: MacKenzie, Compton
+    aliases:
+    - Mackenzie, Compton, Sir
+    - Mackenzie, Anthony Edward Montagu Compton
+    birthdate: 1883
+    deathdate: 1972
+    gutenberg_agent_id: '5658'
+    url: http://www.gutenberg.org/2009/agents/5658
+    wikipedia: http://en.wikipedia.org/wiki/Compton_Mackenzie
+description: ''
+gutenberg_issued: '2011-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 18th century -- Fiction'
+- !lcsh 'Health resorts -- Fiction'
+title: The Passionate Elopement
+url: http://www.gutenberg.org/ebooks/38177
